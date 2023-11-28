@@ -1,10 +1,11 @@
 {
+  "index": "Introduction",
   "using-labex": "Using LabEx",
   "my-account": "My Account",
   "labex-pro": "LabEx Pro",
   "labex-teams": "LabEx Teams",
   "contact": {
-    "title": "LabEx Website ↗",
+    "title": "LabEx ↗",
     "type": "page",
     "href": "https://labex.io",
     "newWindow": true

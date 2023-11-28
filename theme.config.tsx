@@ -34,11 +34,7 @@ const config: DocsThemeConfig = {
       <meta property="og:description" content="LabEx Support Center" />
     </>
   ),
-  faviconGlyph: "✍️",
-  banner: {
-    key: "instructor",
-    text: <a href="/others/contribute">✍️ Become an Instructor 成为作者 →</a>,
-  },
+  faviconGlyph: "📚",
   footer: {
     component: null,
   },
@@ -50,8 +46,7 @@ const config: DocsThemeConfig = {
   },
   project: {
     link: "https://github.com/labex-labs/labex-support",
-  },
-  i18n: [{ locale: "en", text: "English" }],
+  }
 };
 
 export default config;
